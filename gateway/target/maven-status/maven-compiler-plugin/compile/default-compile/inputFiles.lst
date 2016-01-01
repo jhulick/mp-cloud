@@ -1,0 +1,15 @@
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/AppUserDetails.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/jwt/TokenHandler.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/CustomUserDetailsService.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/jwt/UserAuthentication.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/validation/StringConditions.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/filter/CsrfCookieGeneratorFilter.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/filter/TokenGeneratorFilter.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/jwt/UserService.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/SecurityUtils.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/AuthSuccessHandler.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/AuthoritiesConstants.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/GatewayApplication.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/filter/CORSFilter.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/filter/SimpleFilter.java
+/Users/jeremyhulick/projects/tut-spring-security-and-angular-js/double/gateway/src/main/java/demo/security/jwt/TokenAuthenticationService.java

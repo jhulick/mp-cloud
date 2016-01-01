@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/double-admin.iml" filepath="$PROJECT_DIR$/admin/double-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/double-gateway.iml" filepath="$PROJECT_DIR$/gateway/double-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/double-resource.iml" filepath="$PROJECT_DIR$/resource/double-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/double-ui.iml" filepath="$PROJECT_DIR$/ui/double-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pairs-double.iml" filepath="$PROJECT_DIR$/pairs-double.iml" />
+    </modules>
+  </component>
+</project>

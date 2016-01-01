@@ -1,0 +1,5 @@
+demo/ResourceApplication.class
+demo/security/AuthoritiesConstants.class
+demo/security/CustomUserDetailsService$1.class
+demo/security/AppUserDetails.class
+demo/security/CustomUserDetailsService.class

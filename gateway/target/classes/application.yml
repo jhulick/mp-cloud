@@ -1,0 +1,29 @@
+logging:
+    level:
+        org.springframework.security: DEBUG
+security:
+    sessions: ALWAYS
+zuul:
+    routes:
+        ui:
+            url: http://localhost:8081
+        admin:
+            url: http://localhost:8082
+        resource:
+            url: http://localhost:9000
+
+server.address: localhost
+token.secret: 9SyECk96oDsTmXfogIieDI0cD/8FpnojlYSUJT5U9I/FGVmBz5oskmjOR8cbXTvoPjX+Pq/T/b1PqpHX0lYm0oCBjXWICA==
+
+app:
+    admin.userName: admin
+    service:
+#        security: http://localhost:8080/j_spring_cas_security_check
+        security: http://localhost:8080/login/cas
+        home: http://localhost:8080/
+
+cas:
+    url.prefix: http://localhost:9002/cas/
+    service:
+        login: http://localhost:9002/cas/login
+        logout: http://localhost:9002/cas/logout
